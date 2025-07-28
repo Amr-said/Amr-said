@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amr Sabaa</h1>
+<h1 align="center">Hey There 👋, I'm Amr Sabaa</h1>
 <h3 align="center">Biomedical Engineer | Data & AI Enthusiast | RPA Developer</h3>
 
 ---
 
-🧠 **Technical Skills**  
-- **Programming:** Python, R, SQL, C++, Java  
-- **ML & AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Power BI  
-- **RPA & Automation:** UiPath, n8n, Process Mining  
-- **Medical Imaging:** DICOM, CT, OCT, X-ray Processing  
-- **Signal Processing:** DSP, Bio-Signals, FFT, Filtering  
-- **Electronics:** Circuits, Analog/Digital Electronics, Bioelectronics  
+📫 **Let's Connect**  
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amr-sabaa-a431a4229))  
+- [Email](amrk24041@gmail.com)  
