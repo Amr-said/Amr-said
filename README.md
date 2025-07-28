@@ -4,5 +4,5 @@
 ---
 
 📫 **Let's Connect**  
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amr-sabaa-a431a4229))  
+- [LinkedIn](https://www.linkedin.com/in/amr-sabaa-a431a4229)  
 - [Email](amrk24041@gmail.com)  
