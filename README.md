@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amr Sabaa</h1>
+<h3 align="center">Biomedical Engineer | Data & AI Enthusiast | RPA Developer</h3>
 
-<!--
-**Amr-said/Amr-said** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Education**  
+- B.Sc. in Biomedical Engineering, Cairo University  
+- GPA: Very Good (83.9%)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Technical Skills**  
+- **Programming:** Python, R, SQL, C++, Java  
+- **ML & AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Power BI  
+- **RPA & Automation:** UiPath, n8n, Process Mining  
+- **Medical Imaging:** DICOM, CT, OCT, X-ray Processing  
+- **Signal Processing:** DSP, Bio-Signals, FFT, Filtering  
+- **Electronics:** Circuits, Analog/Digital Electronics, Bioelectronics  
