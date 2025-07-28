@@ -3,10 +3,6 @@
 
 ---
 
-🎓 **Education**  
-- B.Sc. in Biomedical Engineering, Cairo University  
-- GPA: Very Good (83.9%)  
-
 🧠 **Technical Skills**  
 - **Programming:** Python, R, SQL, C++, Java  
 - **ML & AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
